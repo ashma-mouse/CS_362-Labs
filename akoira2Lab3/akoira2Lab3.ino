@@ -3,7 +3,6 @@
 // UIN - 659533981
 // Title - Lab 3 [LCD Display with Name and Quote]
 // References: https://www.arduino.cc/en/Tutorial/LibraryExamples/LiquidCrystalScroll, https://create.arduino.cc/projecthub/microBob/lcd-liquid-crystal-display-e72c74
-// Link to the youtube video:  https://www.youtube.com/watch?v=uCB8KdH5F0I 
 
 // Description : 
 /* This lab utilizes the arduino, breadboard, LCD display, sopme jumping wires and a potentiometer. I included the header Liquidcrystal.h
