@@ -3,7 +3,7 @@
 // UIN - 659533981
 // Title - Lab 4 [More complicated Input]
 // References: https://playground.arduino.cc/Learning/PhotoResistor/, https://learn.adafruit.com/photocells
-// Link to the youtube video: https://www.youtube.com/watch?v=1njE73rPVs4
+
 
 // Description : 
 /* This lab utilizes the arduino, breadboard, LCD display, sopme jumping wires, potentiometer and a photoresistor. I included the header Liquidcrystal.h
